@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# folders to ignore
+00_raw_data
+01_clean_data
+o2_outputs
